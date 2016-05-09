@@ -1,6 +1,6 @@
 # Introducción a Django 
 
-Breve ejemplo de aplicación de encuestas usando el framework de python "Django".
+Breve ejemplo de aplicación de encuestas usando el framework de python "Django" por [@Diviei](https://twitter.com/Diviei)
 
 ## Instalación y uso
 
